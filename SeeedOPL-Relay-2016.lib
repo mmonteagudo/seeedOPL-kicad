@@ -1,5 +1,8 @@
 EESchema-LIBRARY Version 2.3  02/01/2017-13:15:41
-# Converted with eagle-lbr2kicad-1.0.ulp Version:2.70  Build Date:10-DEC-2016  USE THIS PROGRAM AT YOUR OWN RISK
+# Converted using modified version of eagle-lbr2kicad-1.0.ulp Version:2.70  Build Date:10-DEC-2016  
+# The converter was modified to convert SeeedOPL files from the last SeeedOPL List published
+# on 12-08-2016 at https://www.seeedstudio.com//upload/opl/opl_package_1204.zip
+# modified by Manuel Monteagudo
 # devicesets = 2  devicescount =2
 #
 # RELAY-HLS8L-DC3V-S-C(5P-19X15MM)     # RELAY-HLS8L-DC3V-S-C(5P-19X15MM)

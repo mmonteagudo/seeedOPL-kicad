@@ -1,5 +1,8 @@
 EESchema-LIBRARY Version 2.3  02/01/2017-13:12:11
-# Converted with eagle-lbr2kicad-1.0.ulp Version:2.70  Build Date:10-DEC-2016  USE THIS PROGRAM AT YOUR OWN RISK
+# Converted using modified version of eagle-lbr2kicad-1.0.ulp Version:2.70  Build Date:10-DEC-2016  
+# The converter was modified to convert SeeedOPL files from the last SeeedOPL List published
+# on 12-08-2016 at https://www.seeedstudio.com//upload/opl/opl_package_1204.zip
+# modified by Manuel Monteagudo
 # devicesets = 79  devicescount =79
 #
 # ALUMINUM-SMD-47UF-25V(D6.3-H5.3MM)     # ALUMINUM-SMD-47UF-25V(D6.3-H5.3MM)
@@ -1322,11 +1325,11 @@ X 2 2 150 0 100 L 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
-# CERAMIC 100NF-10V-10%-X5R(0402)     # CERAMIC 100NF-10V-10%-X5R(0402)
+# CERAMICï¿½100NF-10V-10%-X5R(0402)     # CERAMICï¿½100NF-10V-10%-X5R(0402)
 #
-DEF CERAMIC 100NF-10V-10%-X5R_0402_ C 0 40 N N 1 L N
+DEF CERAMICï¿½100NF-10V-10%-X5R_0402_ C 0 40 N N 1 L N
 F0 "C" -150 50 45 H V L BNN
-F1 "CERAMIC 100NF-10V-10%-X5R_0402_" -150 -100 45 H V L BNN
+F1 "CERAMICï¿½100NF-10V-10%-X5R_0402_" -150 -100 45 H V L BNN
 F4 "CC0402KRX5R6BB104" 30 150 20 H I C CNN "MPN"
 F5 "302010037" 30 150 20 H I C CNN "SKU"
 $FPLIST

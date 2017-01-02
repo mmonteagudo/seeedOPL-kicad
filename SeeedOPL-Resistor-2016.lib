@@ -1,4 +1,8 @@
 EESchema-LIBRARY Version 2.3
+# Converted using modified version of eagle-lbr2kicad-1.0.ulp Version:2.70  Build Date:10-DEC-2016  
+# The converter was modified to convert SeeedOPL files from the last SeeedOPL List published
+# on 12-08-2016 at https://www.seeedstudio.com//upload/opl/opl_package_1204.zip
+# modified by Manuel Monteagudo
 #encoding utf-8
 #
 # DIP-RES-100K-5%-1_6W_PR-D1.8XL3.3MM_
