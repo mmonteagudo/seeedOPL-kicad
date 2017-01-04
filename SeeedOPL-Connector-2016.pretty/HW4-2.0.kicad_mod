@@ -36,4 +36,9 @@
   (pad 2 thru_hole circle (at -0.99822 0) (size 1.27 1.27) (drill 0.79756) (layers *.Cu *.Paste *.Mask))
   (pad 3 thru_hole circle (at 0.99822 0) (size 1.27 1.27) (drill 0.79756) (layers *.Cu *.Paste *.Mask))
   (pad 4 thru_hole circle (at 2.99974 0) (size 1.27 1.27) (drill 0.79756) (layers *.Cu *.Paste *.Mask))
+  (model Groove-Connector.wrl
+    (at (xyz 1.1615 0.311 -0.3))
+    (scale (xyz 0.39 0.39 0.39))
+    (rotate (xyz 270 0 0))
+  )
 )

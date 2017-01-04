@@ -47,4 +47,9 @@
   (pad S4 smd circle (at 1.19888 2.67462) (size 1.89992 1.89992) (layers F.Cu F.Paste F.Mask))
   (pad S5 thru_hole oval (at 3.29946 2.67462 180) (size 1.016 2.032) (drill 0.508) (layers *.Cu *.Paste *.Mask))
   (pad S6 smd oval (at 3.39852 0.42672 90) (size 1.39954 1.59766) (layers F.Cu F.Paste F.Mask))
+  (model _custom.3dshapes/microusb.wrl
+    (at (xyz 0 -0.1 0.05))
+    (scale (xyz 0.395 0.395 0.395))
+    (rotate (xyz 270 0 0))
+  )
 )
