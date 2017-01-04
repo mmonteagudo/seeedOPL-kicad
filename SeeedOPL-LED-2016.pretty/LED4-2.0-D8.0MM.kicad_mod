@@ -20,4 +20,9 @@
   (pad 2 thru_hole circle (at 0.99822 0) (size 1.39954 1.39954) (drill 0.84836) (layers *.Cu *.Paste *.Mask))
   (pad 3 thru_hole circle (at -0.99822 0) (size 1.39954 1.39954) (drill 0.84836) (layers *.Cu *.Paste *.Mask))
   (pad 4 thru_hole circle (at -2.99974 0) (size 1.39954 1.39954) (drill 0.84836) (layers *.Cu *.Paste *.Mask))
+  (model LEDs.3dshapes/LED-8MM.wrl
+    (at (xyz 0.05 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
 )

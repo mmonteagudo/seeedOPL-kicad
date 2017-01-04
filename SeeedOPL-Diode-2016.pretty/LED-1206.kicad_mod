@@ -18,4 +18,9 @@
   (fp_line (start 0.381 0) (end -0.381 -0.508) (layer F.SilkS) (width 0.127))
   (pad + smd rect (at -1.59766 0) (size 1.4986 1.4986) (layers F.Cu F.Paste F.Mask))
   (pad - smd rect (at 1.59766 0) (size 1.4986 1.4986) (layers F.Cu F.Paste F.Mask))
+  (model LEDs.3dshapes/LED_1206.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
