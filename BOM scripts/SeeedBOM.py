@@ -48,6 +48,7 @@ net = kicad_netlist_reader.netlist(sys.argv[1])
 path = sys.argv[2] + "_BOM.csv" #os.path.dirname(sys.argv[2]) + os.sep + sys.argv[2] #"1-click-bom.csv"
 try:
     f = open(path, "w")
+    print("Saving to " + path)
 except IOError:
     e = "Can't open output file for writing: " + path
     print(__file__, ":", e, sys.stderr)
