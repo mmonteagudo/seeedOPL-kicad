@@ -39,4 +39,9 @@
   (pad 4 smd rect (at 2.99974 0 90) (size 2.49936 0.99822) (layers F.Cu F.Paste F.Mask))
   (pad SS1 smd rect (at -5.79882 -3.12166 90) (size 2.49936 1.99898) (layers F.Cu F.Paste F.Mask))
   (pad SS2 smd rect (at 5.79882 -3.12166 90) (size 2.49936 1.99898) (layers F.Cu F.Paste F.Mask))
+  (model _custom.3dshapes/groove_female.wrl
+    (at (xyz 1.16 0.44 -0.3))
+    (scale (xyz 0.39 0.39 0.39))
+    (rotate (xyz 270 0 0))
+  )
 )
